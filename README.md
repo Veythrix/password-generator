@@ -25,6 +25,7 @@ Password Generator is a simple and user-friendly application for generating secu
 
 ## Install
 Clone the repository:
+
 ```git clone https://github.com/Veythrix/password-generator.git```
 
 ```cd password-generator```
