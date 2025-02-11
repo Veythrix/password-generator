@@ -22,3 +22,12 @@ Password Generator is a simple and user-friendly application for generating secu
 ● History of generated passwords.
 
 ●  Copy password to clipboard with a single click.
+
+## Install
+```git clone https://github.com/Veythrix/password-generator.git``
+
+```cd password-generator```
+
+Run the application:
+
+```cargo run --release```
