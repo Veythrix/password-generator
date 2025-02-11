@@ -1,6 +1,7 @@
 # Password Generator by Veythrix
 ![Language](https://img.shields.io/badge/License-AGPL-green)
 ![License](https://img.shields.io/badge/Language-Rust-orange)
+
 Password Generator is a simple and user-friendly application for generating secure passwords. It is written in Rust using the egui library for the graphical user interface. The program allows you to customize password parameters such as length, character types, and also keeps a history of generated passwords.
 ## Features
 
