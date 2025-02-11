@@ -33,7 +33,11 @@ Clone the repository:
 Run the application:
 
 ```cargo run --release```
+
 ## Screenshots:
 Windows:
 
-![Screenshot](screenshot.jpg)
+![screenshotwin](https://github.com/user-attachments/assets/36b2a306-3e04-4882-8658-13a22990a0e8)
+
+Linux: Gnome:
+![Screenshotlin](https://github.com/user-attachments/assets/a73d3006-b4f5-42c7-bd15-b74d56026b90)
