@@ -35,4 +35,5 @@ Run the application:
 ```cargo run --release```
 ## Screenshots:
 Windows:
+
 ![Screenshot](screenshot.jpg)
